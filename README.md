@@ -4,19 +4,20 @@
 <h2 align = "center">Projeto API de jogos desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca</h2>
 
 <p align="center">
-  LINK DA LICENÇA:  <a href="https://opensource.org/licenses/MIT"></a> <a href="https://opensource.org/license/mit/">Clique aqui</a>
+  <a href="https://opensource.org/licenses/MIT"></a> <a href="https://opensource.org/license/mit/">LINK DA LICENÇA</a>
   
   <br>
   <br>
-    <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" style="padding-top: 20px;"/>
-    <img alt="Static Badge" src="https://img.shields.io/badge/API%20-%2033%2B%20-%20green?style=flat&logo=%2334A853&logoColor=%2334A853&labelColor=(178%2C%20222%2C%2039)&color=(50%2C205%2C50)">
+    <img alt="Static Badge" src="https://img.shields.io/badge/License%20-%20MIT%20-%20green?style=flat&logo=%2334A853&logoColor=%233d85c6&labelColor=(178%2C%20222%2C%2039)&color=%233d85c6">
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/API%20-%2033%2B%20-%20green?style=flat&logo=%2334A853&logoColor=%2334A853&labelColor=(178%2C%20222%2C%2039)&color=(50%2C205%2C50)">
 </p>
   
 <p align="center">  
 
-⭐ Esse é um projeto para demonstrar meu conhecimento técnico no desenvolvimento Android nativo com Kotlin. Mais informações técnicas abaixo.
+⭐ Esse é um projeto para demonstrar meu conhecimento técnico no desenvolvimento Android native com Kotlin. Mais informações técnicas abaixo.
 
-DESCRIÇÃO DO PROJETO FOCADA NAS FEATURES (FUNCIONALIDADES). VOCÊ ESTA VENDENDO SUAS HABILIDADES, NÃO A IDEIA DO SEU APP!
+DESCRIÇÃO DO PROJETO FOCADA NAS FEATURES (FUNCIONALIDADES)
 
 </p>
 
@@ -26,13 +27,7 @@ DESCRIÇÃO DO PROJETO FOCADA NAS FEATURES (FUNCIONALIDADES). VOCÊ ESTA VENDEND
 TELAS DO APLICATIVO. FOQUE EM MOSTRAR O QUE É BONITO E IMPORTANTE NO SEU APLICATIVO
 </p>
 
-## Download
-BADGE DA PLAYSTORE https://play.google.com/intl/en_us/badges/
-
-Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>. Você pode ver <a href="https://www.google.com/search?q=como+instalar+um+apk+no+android">aqui</a> como instalar uma APK no seu aparelho android.
-
-## Tecnologias usadas e bibliotecas de código aberto
-
+## Tecnologias usadas 
 - Minimum SDK level COLOQUE AQUI A APK MINIMA
 - [Linguagem Kotlin](https://kotlinlang.org/) OU JAVA SE USAR JAVA
 
@@ -43,12 +38,6 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
   - Room: Biblioteca de abstração do banco de dados SQLite que garante segurança em tempo de compilação e facilidade de uso.
   - Custom Views: View customizadas feitas do zero usando XML.
   - [...]
-
-- Arquitetura - LISTE BREVEMENTE OS COMPONENTES DA SUA ARQUITETURA UTILIZADA
-  - MVVM (View - ViewModel - Model)
-  - Comunicação da ViewModel com a View através de LiveData
-  - Comunicação da ViewModel com a Model através de Kotlin Flow
-  - Repositories para abstração da comunidação com a camada de dados.
   
 - Bibliotecas - LISTE TODAS AS BIBLIOTECAS USADAS NO PROJETO, COM LINK E DESCRIÇÃO BREVE DO QUE ELA FAZ
   - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Para realizar requisições seguindo o padrão HTTP.
@@ -58,10 +47,9 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
 
 ## Arquitetura
 APRESENTE A ARQUITETURA UTILIZADA NO PROJETO
-**Nome do aplicativo** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
+**API Games** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
 </br></br>
-ADICIONE UM FLUXOGRAMA DA ARQUITETURA UTILIZADA - https://excalidraw.com/
-<br>
+
 
 ## API de terceiros
 
