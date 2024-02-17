@@ -4,15 +4,14 @@
 <h2 align = "center">Projeto API de jogos desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca</h2>
 
 <p align="center">
-  TAG DA LICENÇA <a href="https://opensource.org/licenses/MIT"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"/></a>
+  LINK DA LICENÇA:  <a href="https://opensource.org/licenses/MIT"></a> <a href="https://opensource.org/license/mit/">Clique aqui</a>
+  
   <br>
-   TAG DA API - https://android-arsenal.com/api
-
-  <a href="https://wa.me/+5541991965121"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kaiqueocanha/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kaique@ocanha.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <br>
+    <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" style="padding-top: 20px;"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/API%20-%2033%2B%20-%20green?style=flat&logo=%2334A853&logoColor=%2334A853&labelColor=(178%2C%20222%2C%2039)&color=(50%2C205%2C50)">
 </p>
-
+  
 <p align="center">  
 
 ⭐ Esse é um projeto para demonstrar meu conhecimento técnico no desenvolvimento Android nativo com Kotlin. Mais informações técnicas abaixo.
