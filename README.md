@@ -1,7 +1,7 @@
 
-<h1 align="center"># API-Games</h1>
+<h1 align="center">API-Games</h1>
 
-Projeto API de jogos desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca
+<h2 align = "center">Projeto API de jogos desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca</h2>
 
 <p align="center">
   TAG DA LICENÇA <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
