@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/gameImageView"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:padding="10dp"
+            android:contentDescription="Vendo imagens"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:paddingStart="20dp"
+            android:layout_below="@+id/gameImageView"
+            android:layout_alignParentStart="true"
+            tools:ignore="RtlSymmetry" />
+
+        <TextView
+            android:id="@+id/tvClassification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:layout_below="@+id/tvName"
+            android:paddingLeft="20dp"
+            android:layout_alignParentLeft="true"
+            tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+    </RelativeLayout>
+
+</LinearLayout>

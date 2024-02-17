@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Deletar Jogos"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:clickable="false"
+        android:typeface="serif"
+        tools:ignore="HardcodedText,SpUsage" />
+
+    <EditText
+        android:id="@+id/tvIdDeletar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:paddingTop="5mm"
+        android:inputType="number"
+        android:hint="Selecione o ID:"
+        android:maxLength="10"
+        android:backgroundTint="@android:color/white"
+        tools:ignore="HardcodedText,InOrMmUsage"
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/tvBtnDeletar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirmar"
+        android:textSize="28sp"
+        android:textAlignment="center"
+        android:layout_marginTop="32dp"
+        android:textStyle="italic"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/tvBtnVoltar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Voltar"
+        android:textSize="28sp"
+        android:textAlignment="center"
+        android:layout_marginTop="32dp"
+        android:textStyle="italic"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

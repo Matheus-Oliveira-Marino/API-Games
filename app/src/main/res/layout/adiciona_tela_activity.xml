@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:text="Adicionar Jogos"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:typeface="serif"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/tvAdicionarNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:paddingTop="50sp"
+        android:hint="Adicione o nome Do jogo:"
+        android:inputType="text"
+        android:clickable="true"
+        android:backgroundTint="@android:color/white"
+        tools:ignore="HardcodedText"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/tvAdicionarClassificacao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/white"
+        android:clickable="true"
+        android:hint="Adicione uma classificação:"
+        android:inputType="text"
+        android:paddingTop="50sp"
+        android:textSize="20sp"
+        android:autofillHints=""
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/tvAdicionarDescricao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:paddingTop="50sp"
+        android:hint="Adicione uma Descrição:"
+        android:inputType="text"
+        android:imeOptions="flagNoFullscreen"
+        android:clickable="true"
+        android:backgroundTint="@android:color/white"
+        tools:ignore="Autofill,HardcodedText"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/tvAdicionarURL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:paddingTop="50sp"
+        android:hint="Adicione uma URL aqui:"
+        android:inputType="text"
+        android:clickable="true"
+        android:backgroundTint="@android:color/white"
+        tools:ignore="HardcodedText,TextFields"
+        android:autofillHints="" />
+
+    <ImageView
+        android:id="@+id/tvAdicionarImagem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="ContentDescription" />
+
+
+
+    <Button
+        android:id="@+id/tvButtonConfirmar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:fontFamily="sans-serif"
+        android:textSize="25sp"
+        android:text="Confirmar"
+        android:textAlignment="center"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/tvButtonGoogle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:fontFamily="sans-serif"
+        android:textSize="25sp"
+        android:text="Google Imagens"
+        android:textAlignment="center"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/tvButtonAtualizarURL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:fontFamily="sans-serif"
+        android:textSize="25sp"
+        android:text="Verifica URL"
+        android:textAlignment="center"
+        android:editable="false"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/tvButtonVoltar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:fontFamily="sans-serif"
+        android:textSize="25sp"
+        android:text="Voltar"
+        android:textAlignment="center"
+        tools:ignore="HardcodedText" />
+</LinearLayout>

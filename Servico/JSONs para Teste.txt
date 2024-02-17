@@ -1,0 +1,39 @@
+{
+    "nome": "Call of duty",
+    "classificacao": "Tiro, ação",
+    "descricao": "Criado pela activision, bla bla bla", 
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flower_11.jpg"
+	
+}
+
+
+{
+    "nome": "Assassins's Creed:Brotherhood",
+    "classificacao": "16 anos, violencia, ação",
+    "descricao": "fuwfshsd",
+    "imagem": "https://images.hdqwalls.com/wallpapers/ezio-in-assassins-creed-brotherhood.jpg"	
+}
+
+
+{
+    "nome": "Overwatch",
+    "classificacao": "violencia, FPS",
+    "descricao": "sla",
+    "imagem": "https://logos-world.net/wp-content/uploads/2020/05/Overwatch-Logo.png"	
+}
+
+
+{
+    "nome": Nioh2,
+    "classificacao": "18, FPS",
+    "descricao": "Half Yokai samurai",
+    "imagem": "http://kapoow.gamehall.com.br/wp-content/uploads/2021/02/nioh-2-wallpaper.jpg"
+}
+
+
+{
+    "nome": "A República - Platão",
+    "classificacao": "Filosofia",
+    "descricao": "Livro",
+    "imagem": "googro"
+}

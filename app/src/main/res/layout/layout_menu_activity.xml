@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_Layout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bem Vindo!"
+        android:textAlignment="center"
+        android:clickable="false"
+        android:textSize="30sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/holo_red_dark"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Selecione uma das opções abaixo:"
+        android:textAlignment="center"
+        android:clickable="false"
+        android:textSize="20sp"
+        android:layout_marginTop="35dp"
+        android:textColor="@android:color/holo_red_dark"
+        tools:ignore="HardcodedText" />
+
+    <RadioGroup
+
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:drawablePadding="20dp"
+            android:text=" Adicionar um jogo"
+            android:textSize="22sp"
+            tools:ignore="HardcodedText">
+
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:drawablePadding="20dp"
+            android:text=" Ver Filmes"
+            android:textSize="22sp"
+            tools:ignore="HardcodedText">
+
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:drawablePadding="20dp"
+            android:text=" Atualizar jogos"
+            android:textSize="22sp"
+            tools:ignore="HardcodedText">
+
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:drawablePadding="20dp"
+            android:paddingEnd="20dp"
+            android:text=" Excluir jogos"
+            android:textSize="22sp"
+            tools:ignore="HardcodedText,RtlSymmetry">
+
+        </RadioButton>
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnACTION"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="20dp"
+        android:text="Confirmar"
+        android:fontFamily="sans-serif"
+        android:layout_marginTop="32dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/btnVoltar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="20dp"
+        android:fontFamily="sans-serif"
+        android:text="Voltar"
+        android:layout_marginTop="32dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        tools:ignore="HardcodedText" />
+
+
+</LinearLayout>
+

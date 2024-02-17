@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetalhesActivity">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jogos"
+            android:textSize="30sp"
+            android:layout_margin="15dp"
+            android:textAlignment="center"
+            android:fontFamily="serif"
+            android:textColor="@android:color/black"
+            tools:ignore="HardcodedText" />
+        <TextView
+            android:id="@+id/tvId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:textSize="25sp"/>
+        <TextView
+            android:id="@+id/tvNome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:textSize="25sp"/>
+        <TextView
+            android:id="@+id/tvClass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:textSize="25sp"/>
+        <TextView
+            android:id="@+id/tvDescr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:textSize="25sp"/>
+
+    <TextView
+        android:id="@+id/tvURL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/tvButtonVoltar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:fontFamily="sans-serif"
+        android:textSize="25sp"
+        android:text="Voltar"
+        android:textAlignment="center"
+        tools:ignore="HardcodedText" />
+
+
+</LinearLayout>
