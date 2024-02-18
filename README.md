@@ -17,14 +17,19 @@
 
 ⭐ Esse é um projeto para demonstrar meu conhecimento técnico no desenvolvimento Android native com Kotlin. Mais informações técnicas abaixo.
 
-DESCRIÇÃO DO PROJETO FOCADA NAS FEATURES (FUNCIONALIDADES)
+## DESCRIÇÃO
+
+:rocket: O projeto consiste em uma API CRUD que tem como finalidade o cadastro de jogos digitais, indicando nome do jogo, sua classificação, descrição, e um link url da imagem.Ainda, é possível que o user visualize os jogos cadastrados por ele, atualizar alguma informação, ou ainda deletar algum jogo. Através de um ```floating action button```, pode selecionar a opção que deseja realizar.
 
 </p>
 
 </br>
 
 <p float="left" align="center">
-TELAS DO APLICATIVO. FOQUE EM MOSTRAR O QUE É BONITO E IMPORTANTE NO SEU APLICATIVO
+
+## TELAS DO APLICATIVO
+
+
 </p>
 
 ## Tecnologias usadas 
@@ -46,7 +51,6 @@ TELAS DO APLICATIVO. FOQUE EM MOSTRAR O QUE É BONITO E IMPORTANTE NO SEU APLICA
   - [...]
 
 ## Arquitetura
-APRESENTE A ARQUITETURA UTILIZADA NO PROJETO
 **API Games** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
 </br></br>
 
@@ -65,12 +69,4 @@ Texto de exemplo
 ### Feature 2
 <img src="screenshots/feature-2.gif" width="25%"/>
 
-Texto de Exemplo.
 
-# Licença
-
-COLOQUE A LICENÇA - https://opensource.org/licenses
-
-```xml
-
-```
