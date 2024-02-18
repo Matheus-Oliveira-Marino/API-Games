@@ -30,11 +30,6 @@
 
 ## TELAS DO APLICATIVO
 
-  
-Para centralizar os dois vídeos, você pode envolvê-los em uma <div> e aplicar estilos CSS para centralizá-los horizontalmente. Aqui está como você pode fazer isso:
-
-html
-Copy code
 <div style="text-align: center;">
   <p align="center">
     <video width="320" height="240" controls>
