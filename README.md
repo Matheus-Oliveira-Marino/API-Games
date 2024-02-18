@@ -20,7 +20,7 @@
 
 ## DESCRIÇÃO
 
-:rocket: O projeto consiste em uma API CRUD que tem como finalidade o cadastro de jogos digitais, indicando nome do jogo, sua classificação, descrição, e um link url da imagem.Ainda, é possível que o user visualize os jogos cadastrados por ele, atualizar alguma informação, ou ainda deletar algum jogo. Através de um ```floating action button```, pode selecionar a opção que deseja realizar.
+:rocket: O projeto consiste em uma API CRUD que tem como finalidade o cadastro de jogos digitais, indicando nome do jogo, sua classificação, descrição, e um link url da imagem.Ainda, é possível que o usuário visualize os jogos cadastrados por ele, atualizar alguma informação, ou ainda deletar algum jogo. Através de um ```floating action button```, pode selecionar a opção que deseja realizar.
 
 </p>
 
@@ -64,7 +64,6 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
   - [Glide](https://github.com/bumptech/glide): Para carregamento de imagens e cacheamento das mesmas.
   - [Timber](https://github.com/JakeWharton/timber): Para registros de logs mais amigáveis que facilitam o debug.
   - [Volley](https://google.github.io/volley/): Facilita o envio e o recebimento de solicitações HTTP de um aplicativo para um servidor web.
-  - [...]
 
 ## Arquitetura
 **API Games** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
@@ -73,4 +72,6 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 ## Instalação
 
 - __node.js__(windows11): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
-- __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc) 
+- __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
+
+- Para rodar o servidor localmente, é necessário abrir o ```cmd``` e entrar na pasta Servico[(esta aqui)](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
