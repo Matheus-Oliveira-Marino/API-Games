@@ -30,7 +30,7 @@
 
 ## TELAS DO APLICATIVO
 
-  <div style="text-align: center;">
+  <div style="align: center;">
   
   https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/859ac3c1-9068-4c91-9dde-e9918120fc4f
  
