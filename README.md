@@ -31,18 +31,15 @@
 ## TELAS DO APLICATIVO
 
 <div align="center">
-https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/f53b8138-6b18-4f8b-98bc-bfd15f61a477
+    https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/f53b8138-6b18-4f8b-98bc-bfd15f61a477
 </div>
 <br>
-
-
 <div align="center">
-  <br>
-https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/f3b8c0f3-c762-4b38-9fb6-617385ecc9fd
+
+  https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/f3b8c0f3-c762-4b38-9fb6-617385ecc9fd
 
 </div>
 
- 
 </p>
 
 ## Tecnologias usadas 
