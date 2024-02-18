@@ -30,7 +30,7 @@
 
 ## TELAS DO APLICATIVO
 
-⭐ O aplicativo permite o cadastro de jogos por solicitar que o usuário adicione um ```**_nome_**```, ```**classificação**```, ```**descrição**``` e uma ```**URL válida**```. Caso não seja inserido 
+⭐ O aplicativo permite o cadastro de jogos por solicitar que o usuário adicione um ```_**nome**_```, ```**classificação**```, ```**descrição**``` e uma ```**URL válida**```. Caso não seja inserido 
 uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sistema irá reportar um erro.O cadastro de um jogo novo adiciona um novo registro na tabela do banco de dados, contendo cada informação citada anteriormente. O mesmo vale para outras operações.
 <div align="center">
   
