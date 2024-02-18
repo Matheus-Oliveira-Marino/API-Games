@@ -74,7 +74,7 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 - __node.js__(windows11): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
 - __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
 
-- Para rodar o servidor localmente, é necessário abrir o `cmd` e entrar na pasta __Servico__ [(link)](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
+- Para rodar o servidor localmente, é necessário abrir o `cmd` e entrar na pasta __Servico__ , [esta é a pasta](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
 - Digitar o comando `npm init -y` para instalação do `package.json`;
 - *Instalar o Express*: `npm install express --save`;
 
@@ -83,12 +83,12 @@ projeto. Também é criado o arquivo `package_lock.json`, tendo posse das depend
 
 - Editar [variáveis de ambiente](https://github.com/Matheus-Oliveira-Marino/API-Games/blob/main/Servico/template.bat) para acesso ao Banco de Dados de sua preferência;
 
-- ainda no `cmd`, navegar até o local do arquivo `.bat` e digitar o comando:
+- Ainda no `cmd`, navegar até o local do arquivo `.bat` e digitar o comando:
   `node template.bat`
 
-  este retornará uma mensagem de que houve sucesso em inicializar as variáveis de ambiente;
+Este retornará uma mensagem de que houve sucesso em inicializar as variáveis de ambiente;
 
-  - entrar na pasta que contem o arquivo `index.js` e subir o servidor pelo comando:
+Entrar na pasta que contem o arquivo `index.js` e subir o servidor pelo comando:
  
-    `node index.js`
+<p align = "center"> `node index.js` </p>
   
