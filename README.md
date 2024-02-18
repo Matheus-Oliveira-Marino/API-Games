@@ -71,8 +71,10 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 
 ## Instalação
 
-- __node.js__(windows11): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
-- __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
+- [] __Android Studio__(Windows 11): [guide](https://www.youtube.com/watch?v=fxVlHROAkqk)
+- [] __Android Studio__(Ubuntu 22.04 LTS): [guide](https://www.youtube.com/watch?v=x3nVHXv3oyw)
+- [] __node.js__(windows11): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
+- [] __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
 
 - Para rodar o servidor localmente, é necessário abrir o `cmd` e entrar na pasta __Servico__ , [esta é a pasta](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
 - Digitar o comando `npm init -y` para instalação do `package.json`;
@@ -83,7 +85,7 @@ projeto. Também é criado o arquivo `package_lock.json`, tendo posse das depend
 
 - Editar [variáveis de ambiente](https://github.com/Matheus-Oliveira-Marino/API-Games/blob/main/Servico/template.bat) para acesso ao Banco de Dados de sua preferência;
 
-- Acessar o BD de sua preferência. A exemplo do <span style="text-decoration: underline;">SQL server</span> _**SQL server**_, a instalação do mesmo pode ser encontrado [aqui.](https://www.youtube.com/watch?v=Lc3yclqM8rQ)
+- Acessar o BD de sua preferência. A exemplo do _**SQL server**_, a instalação do mesmo pode ser encontrado [aqui.](https://www.youtube.com/watch?v=Lc3yclqM8rQ)
 
 - Ainda no `cmd`, navegar até o local do arquivo `.bat` e digitar o comando: `node template.bat`
  
