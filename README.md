@@ -1,9 +1,9 @@
 
 <h1 align="center">:video_game: API-Games :video_game: </h1>
 
-<br>
-
-<h2 align = "center">Projeto API - CRUD para jogos digitais desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca :books: </h2>  
+<div style ="margin-top: 20px">
+  <h2 align = "center">Projeto API - CRUD para jogos digitais desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca :books: </h2>  
+</div>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"></a> <a href="https://opensource.org/license/mit/">LICENSE</a>
