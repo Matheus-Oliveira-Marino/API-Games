@@ -55,13 +55,21 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 - Maximum SDK level - 33
 - [Linguagem Kotlin](https://kotlinlang.org/)
 
-- Bibliotecas
+
+## Bibliotecas
   - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Para realizar requisições seguindo o padrão HTTP.
+  - [Picasso](https://github.com/square/picasso): Simplifica o processo de baixar, armazenar em cache e exibir imagens de forma eficiente em aplicativos Android.
+  - [Coroutines](https://github.com/Kotlin/kotlinx.coroutines): Permite executar tarefas assíncronas de forma simples e concisa, sem bloquear execução do aplicativo.
+  - [GSON](https://github.com/google/gson): Facilita a conversão de objetos Java em JSON e vice-versa  
   - [Glide](https://github.com/bumptech/glide): Para carregamento de imagens e cacheamento das mesmas.
   - [Timber](https://github.com/JakeWharton/timber): Para registros de logs mais amigáveis que facilitam o debug.
+  - [Volley](https://google.github.io/volley/): Facilita o envio e o recebimento de solicitações HTTP de um aplicativo para um servidor web.
   - [...]
 
 ## Arquitetura
 **API Games** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
 </br></br>
 
+## Instalação
+
+- node.js(windows11): ![link](https://www.youtube.com/watch?v=EIzdQxMXcrc)
