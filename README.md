@@ -1,6 +1,6 @@
 
 <h1 align="center">:video_game: API-Games :video_game: </h1>
-
+<div style="margin-top: 20px;">
 <h2 align = "center">Projeto API - CRUD para jogos digitais desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca :books: </h2>  
 
 <p align="center">
@@ -72,3 +72,4 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 ## Arquitetura
 **API Games** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
 </br></br>
+</div>
