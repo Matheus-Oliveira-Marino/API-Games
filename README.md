@@ -72,4 +72,4 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 
 ## Instalação
 
-- node.js(windows11): ![link](https://www.youtube.com/watch?v=EIzdQxMXcrc)
+- node.js(windows11): [link](https://www.youtube.com/watch?v=EIzdQxMXcrc)
