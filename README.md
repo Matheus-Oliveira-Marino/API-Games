@@ -74,4 +74,5 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 - __node.js__(windows11): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
 - __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
 
-- Para rodar o servidor localmente, é necessário abrir o ```cmd``` e entrar na pasta Servico[(esta aqui)](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
+- Para rodar o servidor localmente, é necessário abrir o ```cmd``` e entrar na pasta __Servico__ [(link)](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
+- Digitar > npm init -y
