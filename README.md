@@ -4,7 +4,7 @@
 <h2 align = "center">Projeto API de jogos desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca</h2>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT"></a> <a href="https://opensource.org/license/mit/">LINK DA LICENÇA</a>
+  <a href="https://opensource.org/licenses/MIT"></a> <a href="https://opensource.org/license/mit/">LICENSE</a>
   
   <br>
   <br>
