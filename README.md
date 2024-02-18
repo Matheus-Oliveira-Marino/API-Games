@@ -105,6 +105,6 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 
 ## Documentação 
 
-- __node__:[clique aqui](https://github.com/nodejs)
-- __kotlin__:[clique aqui](https://github.com/JetBrains/kotlin)
-- __Entendendo melhor o Android Studio__ : [clique aqui](https://alexsoaresdesiqueira.gitbooks.io/android-developer/content/utilizando-o-github-no-android-studio.html)
+- __node__: [clique aqui](https://github.com/nodejs);
+- __kotlin__: [clique aqui](https://github.com/JetBrains/kotlin);
+- __Entendendo melhor o Android Studio__ : [clique aqui](https://alexsoaresdesiqueira.gitbooks.io/android-developer/content/utilizando-o-github-no-android-studio.html);
