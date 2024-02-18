@@ -77,16 +77,20 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 - [ ] __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
 
 - [ ] Lembre - se de configurar o projeto para atender os requisitos do SDK no qual foi projetado. Um guia pode ser encontrado [aqui.](https://www.youtube.com/watch?v=WyOTf7os4I8)
-
+    
 - [ ] Para rodar o servidor localmente, é necessário abrir o `cmd` e entrar na pasta __Servico__ , [esta é a pasta.](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
+      
 - [ ] Digitar o comando `npm init -y` para instalação do `package.json`;
+      
 - [ ] *Instalar o Express*: `npm install express --save`;
 
-</br></br>
+</br>
 <p align = "Center">
   Após executar esse comando é criada a pasta `node_modules`, que contém as dependências instaladas no
   projeto. Também é criado o arquivo `package_lock.json`, tendo posse das dependências usadas no APP.
 </p>
+</br>
+
 - [ ] Editar [variáveis de ambiente](https://github.com/Matheus-Oliveira-Marino/API-Games/blob/main/Servico/template.bat) para acesso ao Banco de Dados de sua preferência;
 
 - [ ] Acessar o BD de sua preferência. A exemplo do _**SQL server**_, a instalação do mesmo pode ser encontrado [aqui.](https://www.youtube.com/watch?v=Lc3yclqM8rQ)
