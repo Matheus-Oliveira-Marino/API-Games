@@ -1,7 +1,7 @@
 
 <h1 align="center">:video_game: API-Games :video_game: </h1>
 
-<h2 align = "center">Projeto API de jogos desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca :books: </h2> 
+<h2 align = "center">Projeto API - CRUD para jogos digitais desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca :books: </h2> 
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"></a> <a href="https://opensource.org/license/mit/">LICENSE</a>
@@ -30,6 +30,8 @@
 
 ## TELAS DO APLICATIVO
 
+⭐ O aplicativo permite o cadastro de jogos por solicitar que o usuário adicione um ```**_nome_**```, ```**classificação**```, ```**descrição**``` e uma ```**URL válida**```. Caso não seja inserido 
+uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sistema irá reportar um erro.O cadastro de um jogo novo adiciona um novo registro na tabela do banco de dados, contendo cada informação citada anteriormente. O mesmo vale para outras operações.
 <div align="center">
   
   https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/f53b8138-6b18-4f8b-98bc-bfd15f61a477
@@ -37,6 +39,9 @@
 
 <br>
 <br>
+
+  É possível visualizar as alterações adicionadas através do botão de "__Ver filmes__". Para editar um jogo previamente cadastrado, a ação pode ser feita através do botão "__Atualizar Jogos__".As alteraçõs serão enviadas ao banco de dados, e será modificado o jogo disponível de acordo com seu ```__ID__``` na tabela. o botão "```__Excluir Jogos__```" redireciona o usuário para deletar um registro de um jogo, passando como parâmetro o ID existente no database do MySQL.
+  
 <div align="center">
 
   https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/f3b8c0f3-c762-4b38-9fb6-617385ecc9fd
