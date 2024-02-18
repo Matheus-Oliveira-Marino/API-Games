@@ -30,7 +30,11 @@
 
 ## TELAS DO APLICATIVO
 
-
+<video width="320" height="240" controls>
+  <source src="caminho/do/seu/video.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+  
 </p>
 
 ## Tecnologias usadas 
@@ -46,7 +50,7 @@
   - Custom Views: View customizadas feitas do zero usando XML.
   - [...]
   
-- Bibliotecas - LISTE TODAS AS BIBLIOTECAS USADAS NO PROJETO, COM LINK E DESCRIÇÃO BREVE DO QUE ELA FAZ
+- Bibliotecas
   - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Para realizar requisições seguindo o padrão HTTP.
   - [Glide](https://github.com/bumptech/glide): Para carregamento de imagens e cacheamento das mesmas.
   - [Timber](https://github.com/JakeWharton/timber): Para registros de logs mais amigáveis que facilitam o debug.
