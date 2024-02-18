@@ -76,19 +76,23 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 - [ ] __node.js__(windows11): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
 - [ ] __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
 
-- Para rodar o servidor localmente, é necessário abrir o `cmd` e entrar na pasta __Servico__ , [esta é a pasta](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
-- Digitar o comando `npm init -y` para instalação do `package.json`;
-- *Instalar o Express*: `npm install express --save`;
+- [ ] Lembre - se de configurar o projeto para atender os requisitos do SDK no qual foi projetado. Um guia pode ser encontrado [aqui.](https://www.youtube.com/watch?v=WyOTf7os4I8)
+
+- [ ] Para rodar o servidor localmente, é necessário abrir o `cmd` e entrar na pasta __Servico__ , [esta é a pasta.](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
+- [ ] Digitar o comando `npm init -y` para instalação do `package.json`;
+- [ ] *Instalar o Express*: `npm install express --save`;
 
 Após executar esse comando é criada a pasta `node_modules`, que contém as dependências instaladas no
 projeto. Também é criado o arquivo `package_lock.json`, tendo posse das dependências usadas no APP.
 
-- Editar [variáveis de ambiente](https://github.com/Matheus-Oliveira-Marino/API-Games/blob/main/Servico/template.bat) para acesso ao Banco de Dados de sua preferência;
+- [ ] Editar [variáveis de ambiente](https://github.com/Matheus-Oliveira-Marino/API-Games/blob/main/Servico/template.bat) para acesso ao Banco de Dados de sua preferência;
 
-- Acessar o BD de sua preferência. A exemplo do _**SQL server**_, a instalação do mesmo pode ser encontrado [aqui.](https://www.youtube.com/watch?v=Lc3yclqM8rQ)
+- [ ] Acessar o BD de sua preferência. A exemplo do _**SQL server**_, a instalação do mesmo pode ser encontrado [aqui.](https://www.youtube.com/watch?v=Lc3yclqM8rQ)
 
-- Ainda no `cmd`, navegar até o local do arquivo `.bat` e digitar o comando: `node template.bat`
+- Ainda no `cmd`, navegar até o local do arquivo `.bat` e digitar o comando: `node template.bat`;
  
 Este retornará uma mensagem de que houve sucesso em inicializar as variáveis de ambiente;
 
-Entrar na pasta que contem o arquivo `index.js` e subir o servidor pelo comando: `node index.js`
+Entrar na pasta que contem o arquivo `index.js` e subir o servidor pelo comando: `node index.js`;
+
+- [ ] Execute a aplicação pelo atalho `Shift + F10` ou pela seta verde no canto superior da tela.
