@@ -34,7 +34,8 @@
 </p>
 
 ## Tecnologias usadas 
-- Minimum SDK level COLOQUE AQUI A APK MINIMA
+- Minimum SDK level - 27
+- Maximum SDK level - 33
 - [Linguagem Kotlin](https://kotlinlang.org/) OU JAVA SE USAR JAVA
 
 - Jetpack - LISTE O MÁXIMO DE COMPONENTES DO JETPACK QUE VOCÊ USA
