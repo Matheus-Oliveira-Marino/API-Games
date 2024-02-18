@@ -72,4 +72,5 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 
 ## Instalação
 
-- node.js(windows11): [link](https://www.youtube.com/watch?v=EIzdQxMXcrc)
+- __node.js__(windows11): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
+- __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc) 
