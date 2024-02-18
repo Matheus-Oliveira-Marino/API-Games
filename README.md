@@ -30,14 +30,22 @@
 
 ## TELAS DO APLICATIVO
 
-  <div style="align: center">
-
-  <p align = "center">
-  https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/859ac3c1-9068-4c91-9dde-e9918120fc4f
- 
   
-  https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/00160f6f-a796-41e8-8610-d267247eb1de
- </p>
+Para centralizar os dois vídeos, você pode envolvê-los em uma <div> e aplicar estilos CSS para centralizá-los horizontalmente. Aqui está como você pode fazer isso:
+
+html
+Copy code
+<div style="text-align: center;">
+  <p align="center">
+    <video width="320" height="240" controls>
+      <source src="https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/859ac3c1-9068-4c91-9dde-e9918120fc4f" type="video/mp4">
+    </video>
+  </p>
+  <p align="center">
+    <video width="320" height="240" controls>
+      <source src="https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/00160f6f-a796-41e8-8610-d267247eb1de" type="video/mp4">
+    </video>
+  </p>
 </div>
 
 
