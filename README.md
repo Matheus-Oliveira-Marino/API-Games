@@ -30,11 +30,8 @@
 
 ## TELAS DO APLICATIVO
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/Matheus-Oliveira-Marino/API-Games/blob/main/Videos/Games%20-%20adding%20and%20reading.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
-  
+  https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/859ac3c1-9068-4c91-9dde-e9918120fc4f
+
 </p>
 
 ## Tecnologias usadas 
