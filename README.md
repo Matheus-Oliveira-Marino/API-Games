@@ -71,10 +71,10 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 
 ## Instalação
 
-- [] __Android Studio__(Windows 11): [guide](https://www.youtube.com/watch?v=fxVlHROAkqk)
-- [] __Android Studio__(Ubuntu 22.04 LTS): [guide](https://www.youtube.com/watch?v=x3nVHXv3oyw)
-- [] __node.js__(windows11): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
-- [] __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
+- [ ] __Android Studio__(Windows 11): [guide](https://www.youtube.com/watch?v=fxVlHROAkqk)
+- [ ] __Android Studio__(Ubuntu 22.04 LTS): [guide](https://www.youtube.com/watch?v=x3nVHXv3oyw)
+- [ ] __node.js__(windows11): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
+- [ ] __node.js__(Ubuntu LTS 22.04): [guide](https://www.youtube.com/watch?v=EIzdQxMXcrc)
 
 - Para rodar o servidor localmente, é necessário abrir o `cmd` e entrar na pasta __Servico__ , [esta é a pasta](https://github.com/Matheus-Oliveira-Marino/API-Games/tree/main/Servico)
 - Digitar o comando `npm init -y` para instalação do `package.json`;
