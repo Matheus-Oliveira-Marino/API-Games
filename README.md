@@ -83,7 +83,7 @@ projeto. Também é criado o arquivo `package_lock.json`, tendo posse das depend
 
 - Editar [variáveis de ambiente](https://github.com/Matheus-Oliveira-Marino/API-Games/blob/main/Servico/template.bat) para acesso ao Banco de Dados de sua preferência;
 
-- Acessar o BD de sua preferência. A exemplo do  <span style="text-decoration: underline;">_SQL server_</span>_**SQL server**_, a instalação do mesmo pode ser encontrado [aqui.](https://www.youtube.com/watch?v=Lc3yclqM8rQ)
+- Acessar o BD de sua preferência. A exemplo do <span style="text-decoration: underline;">SQL server</span> _**SQL server**_, a instalação do mesmo pode ser encontrado [aqui.](https://www.youtube.com/watch?v=Lc3yclqM8rQ)
 
 - Ainda no `cmd`, navegar até o local do arquivo `.bat` e digitar o comando: `node template.bat`
  
