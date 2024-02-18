@@ -83,17 +83,10 @@ projeto. Também é criado o arquivo `package_lock.json`, tendo posse das depend
 
 - Editar [variáveis de ambiente](https://github.com/Matheus-Oliveira-Marino/API-Games/blob/main/Servico/template.bat) para acesso ao Banco de Dados de sua preferência;
 
-- Acessar o BD de sua preferência.A exemplo do _**SQL server**_, a instalação do mesmo pode ser encontrado [aqui.](https://www.youtube.com/watch?v=Lc3yclqM8rQ)
+- Acessar o BD de sua preferência. A exemplo do  <span style="text-decoration: underline;">_SQL server_</span>_**SQL server**_, a instalação do mesmo pode ser encontrado [aqui.](https://www.youtube.com/watch?v=Lc3yclqM8rQ)
 
-- Ainda no `cmd`, navegar até o local do arquivo `.bat` e digitar o comando:
-  <p align="center"> 
-  <code>node template.bat</code>
-</p>
-
+- Ainda no `cmd`, navegar até o local do arquivo `.bat` e digitar o comando: `node template.bat`
+ 
 Este retornará uma mensagem de que houve sucesso em inicializar as variáveis de ambiente;
 
-Entrar na pasta que contem o arquivo `index.js` e subir o servidor pelo comando:
- 
-<p align="center"> 
-  <code>node index.js</code>
-</p>
+Entrar na pasta que contem o arquivo `index.js` e subir o servidor pelo comando: `node index.js`
