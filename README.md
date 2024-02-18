@@ -9,8 +9,9 @@
   <br>
   <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/License%20-%20MIT%20-%20green?style=flat&logo=%2334A853&logoColor=%233d85c6&labelColor=(178%2C%20222%2C%2039)&color=%233d85c6">
+    <img alt="Static Badge" src="https://img.shields.io/badge/API%20-%2033%2B%20-%20green?style=flat&logo=%2334A853&logoColor=%2334A853&labelColor=(178%2C%20222%2C%2039)&color=(50%2C205%2C50)">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Apache-%2013.0%20-%20green?style=flat&logo=%2334A853&logoColor=%233d85c6&labelColor=(178%2C%20222%2C%2039)&color=(0%2C255%2C0)">
 
-  <img alt="Static Badge" src="https://img.shields.io/badge/API%20-%2033%2B%20-%20green?style=flat&logo=%2334A853&logoColor=%2334A853&labelColor=(178%2C%20222%2C%2039)&color=(50%2C205%2C50)">
 </p>
   
 <p align="center">  
