@@ -30,7 +30,7 @@
 
 ## TELAS DO APLICATIVO
 
-⭐ O aplicativo permite o cadastro de jogos por solicitar que o usuário adicione um ```_**nome**_```, ```**classificação**```, ```**descrição**``` e uma ```**URL válida**```. Caso não seja inserido 
+⭐ O aplicativo permite o cadastro de jogos por solicitar que o usuário adicione um ```_nome_```, ```classificação```, ```descrição``` e uma ```URL válida```. Caso não seja inserido 
 uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sistema irá reportar um erro.O cadastro de um jogo novo adiciona um novo registro na tabela do banco de dados, contendo cada informação citada anteriormente. O mesmo vale para outras operações.
 <div align="center">
   
@@ -40,7 +40,7 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 <br>
 <br>
 
-  É possível visualizar as alterações adicionadas através do botão de "__Ver filmes__". Para editar um jogo previamente cadastrado, a ação pode ser feita através do botão "__Atualizar Jogos__".As alteraçõs serão enviadas ao banco de dados, e será modificado o jogo disponível de acordo com seu ```__ID__``` na tabela. o botão "```__Excluir Jogos__```" redireciona o usuário para deletar um registro de um jogo, passando como parâmetro o ID existente no database do MySQL.
+  É possível visualizar as alterações adicionadas através do botão de ```__Ver filmes__```. Para editar um jogo previamente cadastrado, a ação pode ser feita através do botão ```__Atualizar Jogos__```.As alteraçõs serão enviadas ao banco de dados, e será modificado o jogo disponível de acordo com seu ```__ID__``` na tabela. o botão "```__Excluir Jogos__```" redireciona o usuário para deletar um registro de um jogo, passando como parâmetro o ID existente no database do MySQL.
   
 <div align="center">
 
@@ -53,7 +53,7 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 ## Tecnologias usadas 
 - Minimum SDK level - 27
 - Maximum SDK level - 33
-- [Linguagem Kotlin](https://kotlinlang.org/) OU JAVA SE USAR JAVA
+- [Linguagem Kotlin](https://kotlinlang.org/)
 
 - Jetpack - LISTE O MÁXIMO DE COMPONENTES DO JETPACK QUE VOCÊ USA
   - Lifecycle: Observe os ciclos de vida do Android e manipule os estados da interface do usuário após as alterações do ciclo de vida.
@@ -72,20 +72,3 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 ## Arquitetura
 **API Games** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
 </br></br>
-
-
-## API de terceiros
-
-COLOQUE O NOME, LINK E DESCRIÇÃO DAS APIS UTILIZADAS NO PROJETO
-
-## Features
-
-### Feature 1
-<img src="screenshots/feature-1.gif" width="25%"/>
-
-Texto de exemplo
-
-### Feature 2
-<img src="screenshots/feature-2.gif" width="25%"/>
-
-
