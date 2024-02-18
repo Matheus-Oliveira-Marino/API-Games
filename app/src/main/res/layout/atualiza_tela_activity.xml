@@ -100,31 +100,6 @@
         tools:ignore="HardcodedText" />
 
     <Button
-        android:id="@+id/tvButtonGoogle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="32dp"
-        android:fontFamily="sans-serif"
-        android:textSize="25sp"
-        android:text="Google Imagens"
-        android:textAlignment="center"
-        tools:ignore="HardcodedText" />
-
-    <Button
-        android:id="@+id/tvButtonAtualizarURL"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="32dp"
-        android:fontFamily="sans-serif"
-        android:textSize="25sp"
-        android:text="Verifica URL"
-        android:textAlignment="center"
-        android:editable="false"
-        tools:ignore="HardcodedText" />
-
-    <Button
         android:id="@+id/tvButtonVoltar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

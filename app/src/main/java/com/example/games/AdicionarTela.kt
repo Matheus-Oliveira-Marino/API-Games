@@ -1,7 +1,7 @@
 package com.example.games
 
 
-import android.content.ClipDescription
+
 import android.content.ClipboardManager
 import android.content.Context
 import android.os.Bundle
@@ -10,8 +10,6 @@ import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
 import com.example.games.databinding.AdicionaTelaActivityBinding
 import android.content.Intent
-import android.net.Uri
-import android.webkit.URLUtil
 import android.widget.Toast
 import retrofit2.Call
 import retrofit2.Callback
@@ -46,45 +44,8 @@ class AdicionarTela : AppCompatActivity() {
         imagem = binding.tvAdicionarURL
         btnConfirmar = binding.tvButtonConfirmar
         btnVoltar = binding.tvButtonVoltar
-        btnGoogle = binding.tvButtonGoogle
-        btnVerifyUrl = binding.tvButtonAtualizarURL
 
-        imagem.isFocusable = false
-        imagem.isClickable = false
-
-
-        btnVerifyUrl.setOnClickListener()
-        {
-            val clipboardManager = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
-
-
-            if (clipboardManager.hasPrimaryClip() && clipboardManager.primaryClipDescription!!.hasMimeType(ClipDescription.MIMETYPE_TEXT_PLAIN)) {
-                val text = clipboardManager.primaryClip?.getItemAt(0)?.text.toString()
-                // Verifica se o texto copiado é uma URL de imagem
-
-                if (text.isEmpty())
-                {
-                    Toast.makeText(this, "Nenhuma URL encontrada na área de transferência", Toast.LENGTH_SHORT).show()
-                }
-                else if (URLUtil.isValidUrl(text))
-                {
-                    if (text.endsWith(".jpg") || text.endsWith(".png"))
-                    {
-                        imagem.setText(text)
-                        Toast.makeText(this, "Link é uma imagem!", Toast.LENGTH_SHORT).show()
-                    } else
-                    {
-                        Toast.makeText(this, "A URL copiada não é uma imagem válida", Toast.LENGTH_SHORT).show()
-                    }
-                }
-                else
-                {
-                    Toast.makeText(this, "A URL copiada não é válida", Toast.LENGTH_SHORT).show()
-                }
-            }
-        }
-
-        btnConfirmar.setOnClickListener {
+        btnConfirmar.setOnClickListener{
 
             val nome2 = nome.text.toString()
             val classificacao2 = classificacao.text.toString()
@@ -129,15 +90,6 @@ class AdicionarTela : AppCompatActivity() {
                     }
                 })
             }
-        }
-
-        btnGoogle.setOnClickListener()
-        {
-            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/imghp"))
-            startActivity(intent)
-
-            startActivityForResult(intent, REQUEST_CODE_COPY_LINK)
-
         }
 
             btnVoltar.setOnClickListener {

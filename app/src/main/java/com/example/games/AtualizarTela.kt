@@ -58,13 +58,7 @@ class AtualizarTela : AppCompatActivity()
         classificacao = binding.tvclassificacao
         descricao = binding.tvdescricao
         url = binding.tvAdicionarURL
-
-        url.isFocusable = false
-        url.isClickable = false
-
         btnConfirmar = binding.tvButtonConfirmar
-        btnGoogleImages = binding.tvButtonGoogle
-        btnGetUrl = binding.tvButtonAtualizarURL
         btnVoltar = binding.tvButtonVoltar
 
         id.addTextChangedListener(object : TextWatcher
@@ -157,39 +151,6 @@ class AtualizarTela : AppCompatActivity()
             val intent = Intent(this@AtualizarTela, Menu::class.java)
             finish()
             startActivity(intent)
-        }
-
-        btnGoogleImages.setOnClickListener()
-        {
-            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/imghp"))
-            startActivity(intent)
-
-            startActivityForResult(intent,REQUEST_CODE_COPY_LINK)
-
-        }
-
-        btnGetUrl.setOnClickListener()
-        {
-            val clipboardManager = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
-
-
-            if (clipboardManager.hasPrimaryClip() && clipboardManager.primaryClipDescription!!.hasMimeType(
-                    ClipDescription.MIMETYPE_TEXT_PLAIN)) {
-                val text = clipboardManager.primaryClip?.getItemAt(0)?.text.toString()
-                // Verifica se o texto copiado é uma URL de imagem
-
-                if (text.isEmpty())
-                {
-                    Toast.makeText(this, "Nenhuma URL encontrada na área de transferência", Toast.LENGTH_SHORT).show()
-                }
-                if (URLUtil.isValidUrl(text) && (text.endsWith(".jpg") || text.endsWith(".png")))
-                {
-                    url.setText(text)
-                    Toast.makeText(this, "Link é uma imagem!", Toast.LENGTH_SHORT).show()
-                }
-
-            }
-
         }
     }
 
