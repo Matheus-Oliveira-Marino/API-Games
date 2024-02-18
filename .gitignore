@@ -31,3 +31,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Node Modules
+Servico/node_modules

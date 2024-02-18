@@ -25,7 +25,8 @@
         android:theme="@style/Theme.Games"
         android:usesCleartextTraffic="true"
         tools:targetApi="31"
-        android:enableOnBackInvokedCallback="true">
+        android:enableOnBackInvokedCallback="true"
+        tools:ignore="UnusedAttribute">
 
         <activity
          android:name=".Menu"
