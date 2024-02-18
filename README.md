@@ -30,21 +30,7 @@
 
 ## TELAS DO APLICATIVO
 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center;">
-    <video width="640" height="480" controls>
-      <source src="https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/859ac3c1-9068-4c91-9dde-e9918120fc4f" type="video/mp4">
-    </video>
-  </div>
-  <div style="text-align: center;">
-    <video width="640" height="480" controls>
-      <source src="https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/00160f6f-a796-41e8-8610-d267247eb1de" type="video/mp4">
-    </video>
-  </div>
-</div>
-
-
-
+  https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/2babcb14-d453-4764-889c-6fcec13cfcda
 </p>
 
 ## Tecnologias usadas 
