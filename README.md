@@ -87,7 +87,7 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 </br>
 <p align = "Center">
   Após executar esse comando é criada a pasta `node_modules`, que contém as dependências instaladas no
-  projeto. Também é criado o arquivo `package_lock.json`, tendo posse das dependências usadas no APP.
+  projeto. Também é criado o arquivo <code>package_lock.json</code>`, tendo posse das dependências usadas no APP.
 </p>
 </br>
 
