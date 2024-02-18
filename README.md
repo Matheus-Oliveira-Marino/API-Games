@@ -1,5 +1,5 @@
 
-<h1 align="center">API-Games</h1>
+<h1 align="center">:video_game: API-Games :video_game: </h1>
 
 <h2 align = "center">Projeto API de jogos desenvolvido durante o 3º Semestre do Curso de Desenvolvimento de Sistemas no colégio Cotuca</h2>
 
@@ -30,7 +30,13 @@
 
 ## TELAS DO APLICATIVO
 
-  https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/2babcb14-d453-4764-889c-6fcec13cfcda
+
+https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/f53b8138-6b18-4f8b-98bc-bfd15f61a477
+https://github.com/Matheus-Oliveira-Marino/API-Games/assets/139178883/f3b8c0f3-c762-4b38-9fb6-617385ecc9fd
+
+
+
+ 
 </p>
 
 ## Tecnologias usadas 
