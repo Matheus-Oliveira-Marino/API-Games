@@ -108,3 +108,7 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 - __node__: [clique aqui](https://github.com/nodejs);
 - __kotlin__: [clique aqui](https://github.com/JetBrains/kotlin);
 - __Entendendo melhor o Android Studio__ : [clique aqui](https://alexsoaresdesiqueira.gitbooks.io/android-developer/content/utilizando-o-github-no-android-studio.html);
+
+## Licenca
+
+Este projeto está licenciado sob a [MIT LICENSE](https://github.com/Matheus-Oliveira-Marino/Pizzaria-API/blob/d15dc3f0452245adbe4d4b22e7ac1c3af5576893/LICENSE). Consulte o arquivo para obter detalhes.
