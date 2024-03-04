@@ -109,6 +109,6 @@ uma url que contenha uma imagem, ou se os outros campos estiverem vazios, o sist
 - __kotlin__: [clique aqui](https://github.com/JetBrains/kotlin);
 - __Entendendo melhor o Android Studio__ : [clique aqui](https://alexsoaresdesiqueira.gitbooks.io/android-developer/content/utilizando-o-github-no-android-studio.html);
 
-## Licenca
+## Licença
 
 Este projeto está licenciado sob a [MIT LICENSE](https://github.com/Matheus-Oliveira-Marino/API-Games/blob/main/LICENSE). Consulte o arquivo para obter detalhes.
